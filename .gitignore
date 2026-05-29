@@ -1,5 +1,7 @@
-*.mp4
-*.mkv
-*.avi
-*.mov
-*.wmv
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# temp/cache
+*.tmp
+*.log

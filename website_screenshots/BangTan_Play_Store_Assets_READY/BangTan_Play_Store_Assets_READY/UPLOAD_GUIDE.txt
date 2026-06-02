@@ -1,0 +1,28 @@
+BangTan Google Play Store Assets - READY
+
+Phone screenshots:
+- Folder: phone_screenshots_1080x1920
+- Format: JPG
+- Size: 1080 x 1920 px
+- Aspect ratio: 9:16
+- Upload 2 to 8 screenshots in the Phone section. Recommended order: 01 to 08.
+
+Tablet screenshots:
+- Folder: tablet_screenshots_1920x1080
+- Format: JPG
+- Size: 1920 x 1080 px
+- Aspect ratio: 16:9
+- Use these for 7-inch / 10-inch tablet screenshots if Play Console asks.
+
+Feature graphic:
+- Folder: feature_graphic_1024x500
+- File: BangTan_feature_graphic_1024x500.jpg
+- Size: 1024 x 500 px
+
+App icon:
+- Folder: app_icon_512x512
+- File: BangTan_app_icon_512x512.png
+- Size: 512 x 512 px
+
+Important:
+These are formatted from your provided real screenshots/assets. No new fake app screenshots were generated.

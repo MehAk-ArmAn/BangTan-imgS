@@ -1,0 +1,11 @@
+﻿# Windows junk
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Do NOT ignore images/videos here.
+# Videos are tracked by Git LFS using .gitattributes.
